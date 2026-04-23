@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0099ff&height=150&section=header&text=Pardha%20Sai&fontSize=70&fontColor=ffffff" width="100%" />
-</p>
+![Banner](banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Student;Full%20Stack%20Developer;Founder+of+Nexra+Tech;Automotive+Enthusiast" alt="Typing SVG" />

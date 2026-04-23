@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ---
 
 ### 🤝 Let's Connect
-[Portfolio](https://github.com/Pardha05) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[Portfolio](https://github.com/Pardha05) | [LinkedIn](https://www.linkedin.com/in/pardha-sai-bobba-3a2491335/)

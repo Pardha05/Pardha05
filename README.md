@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Pardha%20Sai&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0099ff&height=150&section=header&text=Pardha%20Sai&fontSize=70&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">

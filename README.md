@@ -69,7 +69,6 @@ A system designed to improve movement and reduce congestion in crowded places li
 
 ### 📈 GitHub Activities
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pardha05&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pardha05&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 

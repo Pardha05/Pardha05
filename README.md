@@ -88,3 +88,10 @@ A system designed to improve movement and reduce congestion in crowded places li
 <a href="mailto:Pardhasaibobba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pardha-sai-bobba-3a2491335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+## 💫 Thanks for Visiting
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pardha05/Pardha05/main/endbanner.png" width="100%" />
+</p>
+

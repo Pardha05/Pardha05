@@ -1,7 +1,9 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Student;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Founder+of+Nexra+Technologies;Building+Servify+One;Startup+%26+Product+Builder" />
 </p>
 
 <p align="center">
@@ -15,10 +17,19 @@
 - 🚀 Founder of **Nexra Technologies**
 - 💼 Passionate about **Startups, Innovation & Building Scalable Businesses**
 - 🛠️ Tech Stack: **Python, SQL, React, Next.js, Tailwind CSS**
-- 📱 [Servify One](https://github.com/Pardha05/Servify-One) — One App. All Warranties. Instant Repairs.
+- 💡 Building **Servify One** [Servify One](https://servify-one.onrender.com/) — One App. All Warranties. Instant Repairs.
 
 ---
+### 🚀 Featured Projects
 
+#### 🔹 Servify One
+One App. All Warranties. Instant Repairs.  
+A startup-focused platform to manage product warranties and service requests efficiently.
+
+#### 🔹 Tirumala Smart Navigation System
+A smart navigation solution designed to improve movement and reduce congestion in crowded environments.
+
+---
 
 ### 🚀 My Tech Stack
 <p align="left">

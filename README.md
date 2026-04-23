@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pardha05&label=Profile%20Views&color=0099ff&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pardha05&color=grey&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -87,6 +87,7 @@ A system designed to improve movement and reduce congestion in crowded places li
 <p align="left">
 <a href="mailto:Pardhasaibobba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pardha-sai-bobba-3a2491335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://pardha05.github.io/My-Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a>
 </p>
 
 ## 💫 Thanks for Visiting

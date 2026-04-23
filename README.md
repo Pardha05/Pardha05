@@ -1,22 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Pardha%20Sai&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-<!--
-**Pardha05/Pardha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Student;Full+Stack+Developer;Founder+of+Nexra+Tech" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pardha05&label=Profile%20Views&color=blue&style=flat" alt="Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Pardha Sai! 👋
+---
 
-### 🤖 AI/ML Student & Full-Stack Developer
+### 🤖 About Me
 - 🚀 Founder of **Nexra Technologies**
 - 💻 Building **Servify One** & a 3D Portfolio
 - 🛠️ Tech: **Python, SQL, React, Next.js, Tailwind CSS**

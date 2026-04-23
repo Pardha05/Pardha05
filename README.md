@@ -78,7 +78,7 @@ A system designed to improve movement and reduce congestion in crowded places li
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-user-contribution-7c31.vercel.app/api/snake?github_user=Pardha05&color_dot=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%23217aff&color_snake=%230099ff" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pardha05/Pardha05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---

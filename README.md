@@ -27,7 +27,7 @@
 
 <td width="50%" valign="top">
 
-### 🔧 Servify One  
+### 🔧 [Servify One](https://servify-one.onrender.com/)  
 **One App. All Warranties. Instant Repairs.**
 
 A startup-focused platform to manage product warranties and service requests efficiently.
@@ -40,7 +40,7 @@ A startup-focused platform to manage product warranties and service requests eff
 
 <td width="50%" valign="top">
 
-### 🧭 Tirumala Smart Navigation System  
+### 🧭 [Tirumala Smart Navigation System](https://tirumala-smart-navigation.netlify.app/)
 **Smart Navigation for Crowded Environments**
 
 A system designed to improve movement and reduce congestion in crowded places like temples.
@@ -53,8 +53,6 @@ A system designed to improve movement and reduce congestion in crowded places li
 
 </tr>
 </table>
-```
-
 
 ---
 

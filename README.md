@@ -14,11 +14,10 @@
 
 ### 🤖 About Me
 - 🎓 **B.Tech (2nd Year)** @ VIT-AP University
-- 💼 Passionate about **Startups, Innovation & Building Scalable Businesses**
 - 🚀 Founder of **Nexra Technologies**
-- 📱 [Servify One](https://github.com/Pardha05/Servify-One) — One App. All Warranties. Instant Repairs.
+- 💼 Passionate about **Startups, Innovation & Building Scalable Businesses**
 - 🛠️ Tech Stack: **Python, SQL, React, Next.js, Tailwind CSS**
-- 🏎️ Fun Fact: Passionate about Automotive Engineering & Modifications
+- 📱 [Servify One](https://github.com/Pardha05/Servify-One) — One App. All Warranties. Instant Repairs.
 
 ---
 

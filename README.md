@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pardha05&color=grey&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pardha05&color=grey&style=flat-square" />
 </p>
-
 ---
 
 ### 🤖 About Me

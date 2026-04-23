@@ -1,4 +1,4 @@
-![Banner](banner.png.jpeg)
+![Banner](banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Student;Full+Stack+Developer;Founder+of+Nexra+Tech;Automotive+Enthusiast" alt="Typing SVG" />

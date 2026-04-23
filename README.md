@@ -20,14 +20,41 @@
 - 💡 Building **Servify One** [Servify One](https://servify-one.onrender.com/) — One App. All Warranties. Instant Repairs.
 
 ---
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🔹 Servify One
-One App. All Warranties. Instant Repairs.  
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔧 Servify One  
+**One App. All Warranties. Instant Repairs.**
+
 A startup-focused platform to manage product warranties and service requests efficiently.
 
-#### 🔹 Tirumala Smart Navigation System
-A smart navigation solution designed to improve movement and reduce congestion in crowded environments.
+<br>
+
+`Startup` `Web App` `Service Platform`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧭 Tirumala Smart Navigation System  
+**Smart Navigation for Crowded Environments**
+
+A system designed to improve movement and reduce congestion in crowded places like temples.
+
+<br>
+
+`Navigation` `Smart System` `Optimization`
+
+</td>
+
+</tr>
+</table>
+```
+
 
 ---
 

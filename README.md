@@ -69,7 +69,7 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 </td>
 
 <td width="50%" valign="top">
-<!-- empty or future project -->
+<p align="center">🚀 Coming Soon</p>
 </td>
 
 </tr>

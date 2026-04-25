@@ -52,6 +52,28 @@ A system designed to improve movement and reduce congestion in crowded places li
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 [AI Trading Pattern Analyzer](https://pardha05-trading-analizer.hf.space/)  
+**AI-Powered Stock Chart Pattern Detection**
+
+A deep learning-based system that analyzes stock charts to detect patterns and generate trade insights.
+
+<br>
+
+`AI` `Machine Learning` `YOLOv8` `FinTech`
+
+</td>
+
+<td width="50%" valign="top">
+<!-- empty or future project -->
+</td>
+
+</tr>
+
 </table>
 
 ---

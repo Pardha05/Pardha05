@@ -25,7 +25,7 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔧 [Servify One](https://servify-one.onrender.com/)  
 **One App. All Warranties. Instant Repairs.**
@@ -38,7 +38,7 @@ A startup-focused platform to manage product warranties and service requests eff
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧭 [Tirumala Smart Navigation System](https://tirumala-smart-navigation.netlify.app/)
 **Smart Navigation for Crowded Environments**
@@ -51,13 +51,9 @@ A system designed to improve movement and reduce congestion in crowded places li
 
 </td>
 
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 [AI Trading Pattern Analyzer](https://pardha05-trading-analizer.hf.space/)  
+### 🤖 [AI Trading Pattern Analyzer](#)  
 **AI-Powered Stock Chart Pattern Detection**
 
 A deep learning-based system that analyzes stock charts to detect patterns and generate trade insights.
@@ -68,12 +64,7 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 
 </td>
 
-<td width="50%" valign="top">
-<p align="center">🚀 Coming Soon</p>
-</td>
-
 </tr>
-
 </table>
 
 ---

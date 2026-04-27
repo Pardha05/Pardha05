@@ -69,27 +69,46 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 
 ---
 
-## 🛠️ Tech Stack   ← ADD HERE
+## 🛠️ Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp&perline=4" />
+  <strong style="font-size:18px;">Languages</strong>
 </p>
 
-### 🌐 Web & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
+</p>
+
+<br>
+
+<p align="center">
+  <strong style="font-size:18px;">Web & Frontend</strong>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### 🗄️ Database
+<br>
+
+<p align="center">
+  <strong style="font-size:18px;">Database</strong>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools
+<br>
+
+<p align="center">
+  <strong style="font-size:18px;">Tools</strong>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
+
 ---
 
 ### 📈 GitHub Activities

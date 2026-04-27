@@ -72,13 +72,51 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 ## 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,tailwind,mysql,c,cpp,js,mongodb,git,github" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
 
-<p align="center">
-  Python &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Next.js &nbsp;&nbsp;&nbsp; Tailwind &nbsp;&nbsp;&nbsp; MySQL  
-  <br>
-  C &nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp; GitHub
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br>C
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+</tr>
+</table>
 </p>
 
 ---

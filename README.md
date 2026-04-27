@@ -72,29 +72,13 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 ## 🚀 My Tech Stack
 
 <p align="center">
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-</td>
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,tailwind,mysql,c,cpp,js,mongodb,git,github" />
+</p>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
-</td>
-</tr>
-</table>
+<p align="center">
+  Python &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Next.js &nbsp;&nbsp;&nbsp; Tailwind &nbsp;&nbsp;&nbsp; MySQL  
+  <br>
+  C &nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp; GitHub
 </p>
 
 ---

@@ -99,13 +99,22 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 
 ---
 
-### 📈 GitHub Activities
+## 📊 GitHub Activities
+
 <p align="center">
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pardha05&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pardha05&theme=radical&hide_border=true" width="100%" />
+  <!-- Streak (daily commits) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pardha05&theme=radical&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <!-- Total + yearly commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pardha05&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pardha05&theme=radical" width="48%" />
 </p>
 
 ### 🐍 Contribution Snake

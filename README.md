@@ -101,8 +101,6 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 
 ## 📊 GitHub Activities
 
-## 📊 GitHub Activities
-
 <!-- Languages + Commits Graph -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pardha05&layout=compact&theme=radical&hide_border=true" width="48%" />

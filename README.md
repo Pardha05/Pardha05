@@ -20,7 +20,7 @@
 - 💡 Building **Servify One** [Servify One](https://servify-one.onrender.com/) — One App. All Warranties. Instant Repairs.
 
 ---
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>

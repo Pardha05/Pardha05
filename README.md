@@ -114,12 +114,22 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pardha05&theme=radical&hide_border=true" width="70%" />
 </p>
 
+## 📊 Contribution Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pardha05&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pardha05&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pardha05&theme=github_dark" width="49%" />
+</p>
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pardha05/Pardha05/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
----
 ## 📈 3D Contribution Graph
 
 <p align="center">

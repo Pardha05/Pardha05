@@ -120,6 +120,12 @@ A deep learning-based system that analyzes stock charts to detect patterns and g
 </p>
 
 ---
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+---
 
 ### 🤝 Let's Connect
 <p align="left">

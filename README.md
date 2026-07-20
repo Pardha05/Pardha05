@@ -20,91 +20,74 @@
 - 💡 Building **Servify One** [Servify One](https://servify-one.onrender.com/) — One App. All Warranties. Instant Repairs.
 
 ---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-### 🔧 Servify One
+### 🔧 <a href="https://servify-one.onrender.com/">Servify One</a>
 
 **One App. All Warranties. Instant Repairs.**
 
-A startup-focused platform that helps users manage digital warranties, service requests, repair history, and verified technicians in one place.
+A startup-focused platform that digitizes warranties, simplifies service requests, and connects users with verified technicians.
 
-**Tech:** `Startup` `Web App` `Service Platform`
+**Tech Stack**
 
-🔗 **Live Demo:** https://servify-one.onrender.com/
+`Node.js` `Express` `MongoDB` `JavaScript` `Startup`
 
 </td>
 
-<td width="33%">
+<td width="50%" valign="top">
+
+### 🏏 <a href="https://ipl-auction-v3ih.onrender.com/">IPL Auction Game</a>
+
+**Real-Time Multiplayer IPL Auction Simulator**
+
+A professional IPL auction platform where users create auction rooms, bid on players in real time, manage team budgets, and experience live cricket auctions with a modern gaming UI.
+
+**Tech Stack**
+
+`JavaScript` `Node.js` `Socket.io` `Real-Time` `Gaming`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🧭 Tirumala Smart Navigation System
 
-**Smart Navigation for Crowded Environments**
+**AI Navigation for Crowded Environments**
 
-An intelligent navigation system designed to improve movement inside crowded places like temples using optimized routes and real-time guidance.
+A smart navigation solution designed to reduce congestion inside temples using optimized routing and intelligent guidance.
 
-**Tech:** `Navigation` `Smart System` `Optimization`
+**Tech Stack**
+
+`Navigation` `Optimization` `AI` `Smart System`
 
 </td>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-### 🏏 IPL Auction Game
+### 🤖 AI Trading Pattern Analyzer
 
-**Build Your Dream IPL Franchise**
+**AI-Powered Stock Pattern Detection**
 
-A professional real-time IPL auction simulator where users create auction rooms, bid on players, manage team budgets, and experience live cricket auctions with an immersive stadium-inspired interface.
+A deep learning application that analyzes stock charts, detects technical patterns, and generates intelligent trading insights.
 
-**Features**
-- ⚡ Real-Time Auction Rooms
-- 👥 Multiplayer Bidding
-- 💰 Live Purse Management
-- 🏆 Team Building
-- 🎤 Verbal Auction Mode
-- 🎮 Modern Gaming UI
+**Tech Stack**
 
-**Tech:** `JavaScript` `Node.js` `Real-Time` `WebSockets` `Gaming`
-
-🔗 **Live Demo:** https://ipl-auction-v3ih.onrender.com/
+`Python` `YOLOv8` `Machine Learning` `FinTech`
 
 </td>
 
 </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
-</p>
-
-<br>
-
-<p align="center">𝘞𝘦𝘣 & 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-<br>
-
-<p align="center">𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-<br>
-
-<p align="center">𝘛𝘰𝘰𝘭𝘴</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
 
 ---
 

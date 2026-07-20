@@ -103,7 +103,7 @@ A deep learning application that analyzes stock charts, detects technical patter
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pardha05&theme=radical&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Pardha05&theme=radical&hide_border=true" width="70%" />
 </p>
 
 ## 📊 Contribution Analytics

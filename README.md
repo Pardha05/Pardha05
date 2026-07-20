@@ -127,7 +127,6 @@ A deep learning application that analyzes stock charts, detects technical patter
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
----
 
 ### 🤝 Let's Connect
 <p align="left">

@@ -60,7 +60,7 @@ A professional IPL auction platform where users create auction rooms, bid on pla
 
 <td width="50%" valign="top">
 
-### 🧭 Tirumala Smart Navigation System
+### 🧭 <a href="https://tirumala-smart-navigation.netlify.app/">Tirumala Smart Navigation System</a>
 
 **AI Navigation for Crowded Environments**
 
@@ -74,7 +74,7 @@ A smart navigation solution designed to reduce congestion inside temples using o
 
 <td width="50%" valign="top">
 
-### 🤖 AI Trading Pattern Analyzer
+### 🤖 <a href="https://pardha05-trading-analizer.hf.space/">AI Trading Pattern Analyzer</a>
 
 **AI-Powered Stock Pattern Detection**
 

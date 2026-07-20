@@ -20,47 +20,56 @@
 - 💡 Building **Servify One** [Servify One](https://servify-one.onrender.com/) — One App. All Warranties. Instant Repairs.
 
 ---
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-### 🔧 [Servify One](https://servify-one.onrender.com/)  
+### 🔧 Servify One
+
 **One App. All Warranties. Instant Repairs.**
 
-A startup-focused platform to manage product warranties and service requests efficiently.
+A startup-focused platform that helps users manage digital warranties, service requests, repair history, and verified technicians in one place.
 
-<br>
+**Tech:** `Startup` `Web App` `Service Platform`
 
-`Startup` `Web App` `Service Platform`
+🔗 **Live Demo:** https://servify-one.onrender.com/
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-### 🧭 [Tirumala Smart Navigation System](https://tirumala-smart-navigation.netlify.app/)
+### 🧭 Tirumala Smart Navigation System
+
 **Smart Navigation for Crowded Environments**
 
-A system designed to improve movement and reduce congestion in crowded places like temples.
+An intelligent navigation system designed to improve movement inside crowded places like temples using optimized routes and real-time guidance.
 
-<br>
-
-`Navigation` `Smart System` `Optimization`
+**Tech:** `Navigation` `Smart System` `Optimization`
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%">
 
-### 🤖 [AI Trading Pattern Analyzer](#)  
-**AI-Powered Stock Chart Pattern Detection**
+### 🏏 IPL Auction Game
 
-A deep learning-based system that analyzes stock charts to detect patterns and generate trade insights.
+**Build Your Dream IPL Franchise**
 
-<br>
+A professional real-time IPL auction simulator where users create auction rooms, bid on players, manage team budgets, and experience live cricket auctions with an immersive stadium-inspired interface.
 
-`AI` `Machine Learning` `YOLOv8` `FinTech`
+**Features**
+- ⚡ Real-Time Auction Rooms
+- 👥 Multiplayer Bidding
+- 💰 Live Purse Management
+- 🏆 Team Building
+- 🎤 Verbal Auction Mode
+- 🎮 Modern Gaming UI
+
+**Tech:** `JavaScript` `Node.js` `Real-Time` `WebSockets` `Gaming`
+
+🔗 **Live Demo:** https://ipl-auction-v3ih.onrender.com/
 
 </td>
 

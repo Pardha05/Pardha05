@@ -14,10 +14,9 @@
 
 ### 🤖 About Me
 - 🎓 **B.Tech (2nd Year)** @ VIT-AP University
-- 🚀 Founder of **Nexra Technologies**
 - 💼 Passionate about **Startups, Innovation & Building Scalable Businesses**
 - 🛠️ Tech Stack: **Python, SQL, React, Next.js, Tailwind CSS**
-- 💡 Building **Servify One** [Servify One](https://servify-one.onrender.com/) — One App. All Warranties. Instant Repairs.
+- 💡 Building **Fit os** 
 
 ---
 
@@ -91,6 +90,25 @@ A deep learning application that analyzes stock charts, detects technical patter
 
 ---
 
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
+
+### Cloud & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mongodb&theme=dark" />
+</p>
+
+---
+
 ## 📊 GitHub Activities
 
 <!-- Languages + Commits Graph -->
@@ -105,6 +123,8 @@ A deep learning application that analyzes stock charts, detects technical patter
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pardha05&theme=radical&hide_border=true" width="70%" />
 </p>
+
+---
 
 ## 📊 Contribution Analytics
 

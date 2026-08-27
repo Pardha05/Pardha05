@@ -109,23 +109,6 @@ A deep learning application that analyzes stock charts, detects technical patter
 
 ---
 
-## 📊 GitHub Activities
-
-<!-- Languages + Commits Graph -->
- 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pardha05&theme=radical" width="70%" />
-</p>
-
-<br>
-
-<!-- Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pardha05&theme=radical&hide_border=true" width="70%" />
-</p>
-
----
-
 ## 📊 Contribution Analytics
 
 <p align="center">

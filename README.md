@@ -13,7 +13,7 @@
 ---
 
 ### 🤖 About Me
-- 🎓 **B.Tech (2nd Year)** @ VIT-AP University
+- 🎓 **B.Tech (3rd Year)** @ VIT-AP University
 - 💼 Passionate about **Startups, Innovation & Building Scalable Businesses**
 - 🛠️ Tech Stack: **Python, SQL, React, Next.js, Tailwind CSS**
 - 💡 Building **Fit os** 
@@ -94,7 +94,7 @@ A deep learning application that analyzes stock charts, detects technical patter
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql&theme=dark" />
 </p>
 
 ### Tools
